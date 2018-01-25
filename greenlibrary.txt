@@ -1,2 +1,4 @@
 pictures
 downloads
+document
+joomla
